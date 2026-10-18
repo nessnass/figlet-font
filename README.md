@@ -2,7 +2,7 @@
 
 A [figlet](http://www.figlet.org/) font drawn with single-line Unicode
 box-drawing characters. Three rows tall, for terminal banners and headers.
-By [Nessnass](https://www.nessnass.com).
+By [Nessnass](https://www.nessnass.com/?utm_source=github.com).
 
 ```
 ┌┐╷┌─╴┌─┐┌─┐┌┐╷┌─┐┌─┐┌─┐
