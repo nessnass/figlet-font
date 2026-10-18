@@ -1,0 +1,3 @@
+# The viewer's binary (go build) and the text files it saves (ctrl+w)
+viewer/nessnass
+*_Nessnass.txt
